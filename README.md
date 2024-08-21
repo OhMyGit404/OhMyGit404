@@ -67,7 +67,7 @@ As a versatile Full-Stack Developer, I specialize in Web Designing, Web Developm
 <br>
 
 ### OhMyGit404/README.md activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
+![Alt](https://repobeats.axiom.co/api/embed/e240a3a12c83482755dc4d220520c57655591d31.svg "Repobeats analytics image")
 
 [![Forkers repo roster for @OhMyGit404/OhMyGit404](https://reporoster.com/forks/dark/OhMyGit404/OhMyGit404)](https://github.com/OhMyGit404/OhMyGit404/network/members)
 <br>
