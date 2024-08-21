@@ -210,10 +210,10 @@ As a versatile Full-Stack Developer, I specialize in Web Designing, Web Developm
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="[https://techstack-generator.vercel.app/android-icon.svg](https://kotlinlang.org/)" alt="Docker" width="50" height="50"/><br>Kotlin
+        <img src="[https://techstack-generator.vercel.app/android-icon.svg](https://kotlinlang.org/)" alt="Kotlin" width="50" height="50"/><br>Kotlin
       </td>
       <td align="center" style="border: none;">
-        <img src="[https://techstack-generator.vercel.app/android-icon.svg](https://android.org/)" alt="Kubernetes" width="50" height="50"/><br>Android
+        <img src="[https://techstack-generator.vercel.app/android-icon.svg](https://android.org/)" alt="Android" width="50" height="50"/><br>Android
       </td>
     </tr>
   </tbody>
