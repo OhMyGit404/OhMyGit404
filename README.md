@@ -113,7 +113,7 @@ const ohMyGit404 = {
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OhMyGit404&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophies.vercel.app/?username=OhMyGit404&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
 </p>
 </details>
 
