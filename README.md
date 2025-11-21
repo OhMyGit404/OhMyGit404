@@ -1,332 +1,168 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=120&section=header&text=OhMyGit404&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<div align="center">
-  <a href="https://bento.me/OhMyGit404">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=OhMyGit404&description=Versatile%20Full-Stack%20Developer%20specializing%20in%20Web%20Development,%20Web%20Designing,%20and%20high-quality%20streaming%20technologies.%20Committed%20to%20leveraging%20advanced%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https%3A%2F%2Fi.pinimg.com%2F564x%2F6e%2F62%2Fbd%2F6e62bd810e83b139b3a66c186d0e40ea.jpg&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea" alt="OhMyGit404's Card" />
-
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=833AB4&center=true&vCenter=true&random=false&width=524&lines=Full-Stack+Developer+%F0%9F%92%BB;Web+Designer+%26+Developer+%F0%9F%8E%A8;Streaming+Tech+Enthusiast+%F0%9F%93%BA;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</div>
-
-<h1 align="center">👋 Hello, I'm OhMyGit404</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Student;Photographer;Editor;" alt="Typing SVG" />
-
 </p>
 
 <p align="center">
-  Human | Alien | Tech Enthusiast
+  <a href="mailto:OhMyGit404@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/OhMyGit404">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=OhMyGit404&style=for-the-badge&color=833ab4" alt="Profile Views"/>
 </p>
 
+---
 
+## 👨‍💻 About Me
+
+```javascript
+const ohMyGit404 = {
+    role: "Full-Stack Developer",
+    location: "Kenya 🇰🇪",
+    currentFocus: ["Web Development", "Streaming Tech", "AI/ML Integration"],
+    passions: ["Clean Code", "Creative Problem-Solving", "Photography"],
+    philosophy: "Pushing the boundaries of modern technology to deliver exceptional results"
+};
+```
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+
+- 🔭 Currently working on **innovative web & streaming solutions**
+- 🌱 Exploring **LangChain, LlamaIndex & AI integrations**
+- 💡 Passionate about **high-quality streaming technologies**
+- 🎯 Goal: Build tools that **boost productivity & creativity**
+- 📸 When not coding: **Photography & Video Editing**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
 <br>
-
-
-
-<h2 align="center">🚀 About Me</h2>
-
-As a versatile Full-Stack Developer, I specialize in Web Designing, Web Development, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced tech solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
-
-<h3 align="center">Git Stats</h3>
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=OhMyGit404&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OhMyGit404&custom_title=OhMyGit404's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhMyGit404&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OhMyGit404&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OhMyGit404&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=OhMyGit404&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="OhMyGit404's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OhMyGit404&theme=highcontrast&hide_border=true">
-
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">Git Stats Summary</summary>
-  <img src="https://myreadme.vercel.app/api/embed/OhMyGit404?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="OhMyGit404's GitHub Stats">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,jquery&perline=8" alt="Frontend Skills"/>
+</p>
 </details>
 
+<details open>
+<summary><b>⚙️ Backend</b></summary>
 <br>
-
-### OhMyGit404/README.md activity
-![Alt](https://repobeats.axiom.co/api/embed/e240a3a12c83482755dc4d220520c57655591d31.svg "Repobeats analytics image")
-
-[![Forkers repo roster for @OhMyGit404/OhMyGit404](https://reporoster.com/forks/dark/OhMyGit404/OhMyGit404)](https://github.com/OhMyGit404/OhMyGit404/network/members)
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=OhMyGit404&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,flask&perline=4" alt="Backend Skills"/>
+</p>
 </details>
 
+<details open>
+<summary><b>🗄️ Database & Tools</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,vscode,figma&perline=6" alt="Database & Tools"/>
+</p>
+</details>
 
+<details>
+<summary><b>🤖 AI/ML Stack</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge" alt="LlamaIndex"/>
+</p>
+</details>
 
-</div>
+<details>
+<summary><b>📱 Mobile Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&perline=2" alt="Mobile Dev"/>
+</p>
+</details>
 
+---
 
-</div>
+## 📊 GitHub Analytics
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OhMyGit404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=833ab4&icon_color=fcb045&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=OhMyGit404&theme=tokyonight&hide_border=true&background=0D1117&ring=833ab4&fire=fcb045&currStreakLabel=833ab4" alt="GitHub Streak"/>
+</p>
 
-<h3 align="center">Web Development</h3>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhMyGit404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=833ab4&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</p>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-        </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-        </a>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-        </a>
-        <br>TypeScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
-        </a>
-        <br>jQuery
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-        </a>
-        <br>CSS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<details>
+<summary><b>📈 Detailed Activity Graph</b></summary>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OhMyGit404&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=833ab4&line=fcb045&point=FFFFFF&area_color=833ab4&title_color=FFFFFF&area=true" alt="Activity Graph"/>
+</details>
 
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OhMyGit404&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
+</p>
+</details>
 
+---
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+## 🚀 Featured Projects
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Database</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">App Dev</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="[https://techstack-generator.vercel.app/android-icon.svg](https://kotlinlang.org/)" alt="Kotlin" width="50" height="50"/><br>Kotlin
-      </td>
-      <td align="center" style="border: none;">
-        <img src="[https://techstack-generator.vercel.app/android-icon.svg](https://android.org/)" alt="Android" width="50" height="50"/><br>Android
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
-      </td>
-  <td align="center" style="border: none;">
-        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-<h2 align="center">🏆 Featured Projects</h2>
+<p align="center">
+  <i>🔮 Exciting projects coming soon... Stay tuned!</i>
+</p>
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="AI Content Creation"/>
-      <br>
-      <strong>Coming Soon</strong>
-      <br>
-      Scratch to See
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60"/>
+      <br><b>AI Project</b>
+      <br><sub>🚧 In Development</sub>
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="MapleLaw AI"/>
-      <br>
-      <strong>Coming Soon</strong>
-      <br>
-      Scratch to See
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/web.png" width="60"/>
+      <br><b>Web Platform</b>
+      <br><sub>🚧 In Development</sub>
     </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Sara AI"/>
-      <br>
-      <strong>Coming Soon</strong>
-      <br>
-      Scratch to See
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="4K60 Streaming"/>
-      <br>
-      <strong>Coming Soon</strong>
-      <br>
-      Scratch to See
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Cloud-Native Web Apps"/>
-      <br>
-      <strong>Coming Soon</strong>
-      <br>
-      Scratch to See
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100" height="100" alt="Your Next Project?"/>
-      <br>
-      <strong>Coming Soon</strong>
-      <br>
-      Scratch to See
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/video-call.png" width="60"/>
+      <br><b>Streaming Tool</b>
+      <br><sub>🚧 In Development</sub>
     </td>
   </tr>
 </table>
 
+---
 
+## 🐍 Contribution Snake
 
-<h2 align="center">📫 Let's Connect!</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
-<table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <a href="@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=OhMyGit404@gmail.com&size=square" alt="OhMyGit404" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Kenya-714942048&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Kenya-714942048&size=square" alt="Kenya-+254-714-942-048" style="margin: 10px;">
-      </a>
-    </td>
+---
 
-  </tr>
-</table>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
 
+<p align="center">
+  <b>💬 Let's connect and build something amazing together!</b>
+</p>
 
-<br>
+<p align="center">
+  <a href="mailto:OhMyGit404@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-833ab4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<h3>
-<div align="center">
-  
-⭐️ From [OhMyGit404](https://github.com/OhMyGit404) | Let's innovate together! 🚀
-
-
-</div>
-</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,3&height=100&section=footer"/>
