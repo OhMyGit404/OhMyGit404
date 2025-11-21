@@ -92,7 +92,11 @@ const ohMyGit404 = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OhMyGit404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=833ab4&icon_color=fcb045&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=OhMyGit404&theme=tokyonight&hide_border=true&background=0D1117&ring=833ab4&fire=fcb045&currStreakLabel=833ab4" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OhMyGit404&theme=tokyonight&utcOffset=3" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OhMyGit404&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 <p align="center">
